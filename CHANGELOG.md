@@ -12,6 +12,14 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
   [lucasmpaim](https://github.com/lucasmpaim)
   [#7432](https://github.com/CocoaPods/CocoaPods/issues/7432)
 
+* Option to lint a specified set of test_specs  
+  [Paul Beusterien](https://github.com/paulb777)
+  [#9392](https://github.com/CocoaPods/CocoaPods/pull/9392)
+
+* Add --use-static-frameworks lint option  
+  [Paul Beusterien](https://github.com/paulb777)
+  [#9632](https://github.com/CocoaPods/CocoaPods/pull/9632)
+
 ##### Bug Fixes
 
 * When preserving pod paths, preserve ALL the paths  
@@ -42,10 +50,6 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
 ## 1.9.1 (2020-03-09)
 
 ##### Enhancements
-
-* Option to lint a specified set of test_specs  
-  [Paul Beusterien](https://github.com/paulb777)
-  [#9392](https://github.com/CocoaPods/CocoaPods/pull/9392)
 
 ##### Bug Fixes
 
