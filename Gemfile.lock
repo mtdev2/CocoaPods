@@ -163,7 +163,7 @@ GEM
       safe_yaml (~> 1.0.0)
 
     danger (6.3.1
-      
+
     danger (6.3.2)
 depfu/update/rb-fsevent-0.10.3
       claide (~> 1.0)
